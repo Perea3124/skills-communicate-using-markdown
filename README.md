@@ -1,38 +1,50 @@
-## Step 4: Make a task list
+<header>
 
-_Great job adding a code example to the file :partying_face:_
+<!--
+  <<< Author notes: Course header >>>
+  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
+  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
+  Add your open source license, GitHub uses MIT license.
+-->
 
-**What is a _task list_?** A task list creates checkboxes to check off. They're very useful for tracking issues and pull requests. If you include a task list in the body of an issue or pull request, you'll see a progress indicator in your issue list. The syntax for task lists is very specific. Be sure to include the spaces where required, or else they won't render.
+# Communicate using Markdown
 
-### Example
+_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
-```
-- [x] List syntax is required
-- [x] This item is complete
-- [ ] This item is not complete
-```
+</header>
 
-#### How it looks
+<!--
+  <<< Author notes: Step 5 >>>
+  Start this step by acknowledging the previous step.
+  Define terms and link to docs.github.com.
+-->
 
-- [x] List syntax is required
-- [x] This item is complete
-- [ ] This item is not complete
+## Step 5: Merge your pull request
 
-### :keyboard: Activity: Add a task list
+_Great job adding a task list to the file :heart:_
 
-GitHub Actions went ahead and made a branch for you. So you'll need to add to the file we've created in the branch, and we will check your work as you work through this course!
+You can now [merge](https://docs.github.com/get-started/quickstart/github-glossary#merge) your pull request!
 
-1. Return to your pull request.
-1. Use Markdown to create a task list. Here is an example:
+### :keyboard: Activity: Merge your pull request
 
-   ```md
-   - [ ] Turn on GitHub Pages
-   - [ ] Outline my portfolio
-   - [ ] Introduce myself to the world
-   ```
+- [x] List syntax is required  
+- [x] This item is complete  
+- [ ] This item is not complete  
 
-   Remember, a task list starts with the syntax `- [ ]` and then the task list item. The formatting is very specific!
-
-1. Use the **Preview** tab to check your Markdown formatting.
-1. Commit the changes to the file.
+1. Click **Merge pull request**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
+<footer>
+
+<!--
+  <<< Author notes: Footer >>>
+  Add a link to get support, GitHub status page, code of conduct, license link.
+-->
+
+---
+
+Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) • [Review the GitHub status page](https://www.githubstatus.com/)
+
+© 2023 GitHub • [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) • [MIT License](https://gh.io/mit)
+
+</footer>
