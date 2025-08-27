@@ -27,6 +27,10 @@ You can now [merge](https://docs.github.com/get-started/quickstart/github-glossa
 
 ### :keyboard: Activity: Merge your pull request
 
+- [x] List syntax is required  
+- [x] This item is complete  
+- [ ] This item is not complete  
+
 1. Click **Merge pull request**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
@@ -39,8 +43,8 @@ You can now [merge](https://docs.github.com/get-started/quickstart/github-glossa
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) • [Review the GitHub status page](https://www.githubstatus.com/)
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+© 2023 GitHub • [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) • [MIT License](https://gh.io/mit)
 
 </footer>
